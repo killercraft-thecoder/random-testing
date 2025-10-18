@@ -48,6 +48,7 @@
         "math.ts",
         "pxt-core.d.ts",
         "pxt-helpers.ts",
+        "templates.ts"
     ],
     "testFiles": [
         "test.ts"
