@@ -1,5 +1,6 @@
 {
     "name": "core-modifed",
+    "version": "0.1.0",
     "description": "The core library for Codal-based targets",
     "dependencies": {
         "base": "*"
