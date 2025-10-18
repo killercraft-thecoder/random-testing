@@ -1,1 +1,7 @@
-// tests go here; this will not be compiled when this package is used as an extension.
+let i = 1
+let f = 0.5
+let plus = i + f
+let minus = i - f
+
+let r = Math.random()
+let ri = Math.randomRange(5, 10)
