@@ -44,7 +44,10 @@
         "buffer.ts",
         "console.ts",
         "control.ts",
-        "json.ts"
+        "json.ts",
+        "math.ts",
+        "pxt-core.d.ts",
+        "pxt-helpers.ts",
     ],
     "testFiles": [
         "test.ts"
