@@ -39,7 +39,12 @@
         "keyvaluestorage.cpp",
         "keyvaluestorage.ts",
         "leveldetector.ts",
-        "pxtparts.json"
+        "pxtparts.json",
+        "interval.ts",
+        "buffer.ts",
+        "console.ts",
+        "control.ts",
+        "json.ts"
     ],
     "testFiles": [
         "test.ts"
